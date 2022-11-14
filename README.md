@@ -37,11 +37,11 @@ De 0 a 2 años de antigüedad no se asigna bono. de 3 a 5 años de antigüedad s
 
 +-------------------------------------------------------------------------------+
 |la empresa es cdmx                                                             |
-| el nombre del empleado es ioannes melgarejo torres                            |
+| el nombre del empleado es Tlpanaco Sanchez Ana Valeria                        |
 | el frc del empleado es 1234567                                                |
-|el curp del empleado es meti040701hpllrna8                                     |
-|el correo electronico del empleado es ioannes107@gmail.com                     |
-|el salario neto del empleado ioannes ixca melgarejo torres es 100              |
+|el curp del empleado es TASA010420MPLLNNA9                                     |
+|el correo electronico del empleado es  valegene292015@gmail.com                |
+|el salario neto del empleado Tlapanco Sanchez Ana Valeria es 100               |
 |la nomina de todos los empleados es de 1000                                    |
 |                                                                               |
 |                                                                               |
